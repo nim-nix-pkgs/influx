@@ -11,6 +11,7 @@
   inputs.src-influx-master.ref   = "refs/heads/master";
   inputs.src-influx-master.owner = "samdmarshall";
   inputs.src-influx-master.repo  = "influx.nim";
+  inputs.src-influx-master.dir   = "";
   inputs.src-influx-master.type  = "github";
   
   outputs = { self, nixpkgs, flakeNimbleLib, ...}@deps:
