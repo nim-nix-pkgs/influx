@@ -33,11 +33,11 @@
       },
       "locked": {
         "dir": "master",
-        "lastModified": 1656746803,
-        "narHash": "sha256-UgmYWLE1+VJww+vfM4YJrMP7sCRfv+MFnUUvc18kwW4=",
+        "lastModified": 1657152998,
+        "narHash": "sha256-23u0wrh6LUqOkQ+EpWslqXn9Ak5/PHg1tj9no/dvsE4=",
         "owner": "nim-nix-pkgs",
         "repo": "influx",
-        "rev": "f7b9b858547c4e03c397b3865875f23196f4f5ed",
+        "rev": "965b1a55e349ddc2fcccf98b7d166ab25d2c3319",
         "type": "github"
       },
       "original": {
