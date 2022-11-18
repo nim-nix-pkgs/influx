@@ -182,11 +182,11 @@
       },
       "locked": {
         "dir": "master",
-        "lastModified": 1668748814,
-        "narHash": "sha256-4vNwFInphmwUfCcRfdDchLQitaXlBdNzZ04V7IVv1fg=",
+        "lastModified": 1668754585,
+        "narHash": "sha256-vPvpE2Hcj9zOJEpQsYOzSkCJosmCN7Vzue4Tf5vsU1w=",
         "owner": "nim-nix-pkgs",
         "repo": "influx",
-        "rev": "8364815ae706a1da2f764c576e5e3df5143d621f",
+        "rev": "7fc52fc2605055d12f355491666b5f2c01053b11",
         "type": "github"
       },
       "original": {
